@@ -7,8 +7,8 @@ You can find **Full Project Documentation** [here][documentation_path]
 <hr>
 
 #### Workflows
-[![Tests](https://github.com/libresource/pygenesisactions/workflows/run-tests.yml/badge.svg?branch=main)](https://github.com/libresource/pygenesisactions/workflows/run-tests.yml)
-[![Pylint](https://github.com/libresource/pygenesisactions/workflows/lint.yml/badge.svg?branch=main)](https://github.com/libresource/pygenesisactions/workflows/lint.yml)
+[![Tests](https://github.com/libresource/pygenesis/actions/workflows/run-tests.yml/badge.svg?branch=main)](https://github.com/libresource/pygenesis/actions/workflows/run-tests.yml)
+[![Pylint](https://github.com/libresource/pygenesis/actions/workflows/lint.yml/badge.svg?branch=main)](https://github.com/libresource/pygenesis/actions/workflows/lint.yml)
 
 #### Package
 [![Version](https://img.shields.io/pypi/v/pygenesis.svg)](https://pypi.python.org/pypi/pygenesis/)
@@ -19,8 +19,8 @@ You can find **Full Project Documentation** [here][documentation_path]
 
 #### Support
 [![Documentation](https://img.shields.io/badge/docs-0094FF.svg)][documentation_path]
-[![Discussions](https://img.shields.io/badge/discussions-ff0068.svg)](https://github.com/libresource/pygenesisdiscussions/)
-[![Issues](https://img.shields.io/badge/issues-11AE13.svg)](https://github.com/libresource/pygenesisissues/)
+[![Discussions](https://img.shields.io/badge/discussions-ff0068.svg)](https://github.com/libresource/pygenesis/discussions/)
+[![Issues](https://img.shields.io/badge/issues-11AE13.svg)](https://github.com/libresource/pygenesis/issues/)
 
 #### Downloads
 [![Day Downloads](https://img.shields.io/pypi/dd/pygenesis)](https://pepy.tech/project/pygenesis)
@@ -34,19 +34,19 @@ You can find **Full Project Documentation** [here][documentation_path]
 
 #### Development
 - [![Release date](https://img.shields.io/github/release-date/libresource/pygenesis
-)](https://github.com/libresource/pygenesisreleases)
-[![Last Commit](https://img.shields.io/github/last-commit/libresource/pygenesismain
+)](https://github.com/libresource/pygenesis/releases)
+[![Last Commit](https://img.shields.io/github/last-commit/libresource/pygenesis/main
 )](https://github.com/libresource/pygenesis)
 - [![Issues](https://img.shields.io/github/issues/libresource/pygenesis
-)](https://github.com/libresource/pygenesisissues/)
+)](https://github.com/libresource/pygenesis/issues/)
 [![Closed Issues](https://img.shields.io/github/issues-closed/libresource/pygenesis
-)](https://github.com/libresource/pygenesisissues/)
+)](https://github.com/libresource/pygenesis/issues/)
 - [![Pull Requests](https://img.shields.io/github/issues-pr/libresource/pygenesis
-)](https://github.com/libresource/pygenesispulls)
+)](https://github.com/libresource/pygenesis/pulls)
 [![Closed Pull Requests](https://img.shields.io/github/issues-pr-closed-raw/libresource/pygenesis
-)](https://github.com/libresource/pygenesispulls)
+)](https://github.com/libresource/pygenesis/pulls)
 - [![Discussions](https://img.shields.io/github/discussions/libresource/pygenesis
-)](https://github.com/libresource/pygenesisdiscussions/)
+)](https://github.com/libresource/pygenesis/discussions/)
 
 [//]: # (#### Repository Stats)
 

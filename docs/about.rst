@@ -36,18 +36,18 @@ It contains may useful files for open source project: (`CHECKLIST.md <https://gi
 - `setup.py` for build your package
 - `requirements.txt` and `dev-requirements.txt`
 - `Makefile` with main commands to work with the project
-  - run tests
-  - calculate coverage
-  - lint
-  - build and install package
-  - generate autodocumentation
-  - others
+- - run tests
+- - calculate coverage
+- - lint
+- - build and install package
+- - generate autodocumentation
+- - others
 - GitHub workflows
-  - generate documentation
-  - run tests with coverage
-  - run linter
-  - publish your package in PyPi
-  - greetings for new contributors
+- - generate documentation
+- - run tests with coverage
+- - run linter
+- - publish your package in PyPi
+- - greetings for new contributors
 
 Requirements
 ------------
