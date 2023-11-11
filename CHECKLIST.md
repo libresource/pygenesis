@@ -26,6 +26,7 @@
 - [x] [Security Policy](https://github.com/libresource/open-source-checklist#security-policy)
 - [x] [Governance](https://github.com/libresource/open-source-checklist#governance)
 - [x] [Issue templates](https://github.com/libresource/open-source-checklist#issue-templates)
+- [x] [Pull Request Template](https://github.com/libresource/open-source-checklist#pull-request-template)
 - [x] [Support](https://github.com/libresource/open-source-checklist#support)
 
 [CI and CD](https://github.com/libresource/open-source-checklist#ci-and-cd)
