@@ -2,5 +2,5 @@
 Package info
 """
 name = 'pygenesis'
-version = '1.0.1'
-status = '4 - Beta'
+version = '1.1.0'
+status = '5 - Production/Stable'

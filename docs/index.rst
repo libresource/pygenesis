@@ -6,11 +6,12 @@
 Welcome to PyGenesis's documentation!
 ============================================
 
+.. include:: about.rst
+
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
 
-   about
    install
    quickstart
    dev_documentation
